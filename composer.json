@@ -1,0 +1,17 @@
+{
+    "name": "cindy/libhallo",
+    "description": "pembuatan library sederhana",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "2211081006",
+            "email": "cindysteffani0@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4" :{"cindy\\libhallo\\":"src"}
+    },
+    "require": {}
+}
